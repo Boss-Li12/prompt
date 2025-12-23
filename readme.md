@@ -1,1 +1,1 @@
-用来存储一些prompt模版
+用来存储一些prompt模版，建议用gemini 3 pro 思考版
